@@ -13,9 +13,8 @@ In this classic arcade-style game, you take control of a single human player rep
 - Ghosts (👻): Represented by ghosts, these are the enemies Pacman must avoid. If Pacman collides with a ghost, the game ends.
 - Walls (🧱): Represented by green crosses, these are barriers Pacman cannot pass through.
 
+## Game images
 <img width="348" alt="Screenshot 2024-02-28 at 2 25 55 PM" src="https://github.com/SSharroufna/Pacman-Game/assets/135912836/eaca53d0-e60a-4d1b-8e40-bf514afa3bbc">
-
-<br/>
 
 <img width="396" alt="Screenshot 2024-02-28 at 2 26 36 PM" src="https://github.com/SSharroufna/Pacman-Game/assets/135912836/2b8ea08a-b6f6-446c-b17e-8b5161068d8d">
 
